@@ -1,2 +1,2 @@
 # SQL-QUERY-REPO
-SQL interview preparation
+SQL QUERY REPO contains all material for SQL interview and query preparation 
